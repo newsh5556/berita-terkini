@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://https://newsh5556.github.io/sitemap.xml
